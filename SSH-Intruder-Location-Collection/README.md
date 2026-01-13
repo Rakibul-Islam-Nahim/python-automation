@@ -117,8 +117,8 @@ Additionally, the stored `attackers.csv` dataset will be useful for future proje
 
 ## Author:
 
-_**Rakib Ul Islam Nahim**_
-Cybersecurity / SOC Analyst Enthusiast
+_**Rakib Ul Islam Nahim**_    
+Cybersecurity / SOC Analyst Enthusiast    
 I am focusing on practical learning while fully utilizing my available resources
 
 ---

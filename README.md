@@ -22,7 +22,7 @@ All scripts are written with a **security-first mindset**, focusing on clarity, 
 
 ## Table of Contents
 
-- [SSH Intruder Location Detections](/SSH-Intruder-Location-Collector/README.md)
+- [SSH Intruder Location Detections](SSH-Intruder-Location-Collector/README.md)
 
 ---
 
